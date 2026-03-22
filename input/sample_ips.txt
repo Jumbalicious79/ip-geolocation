@@ -1,0 +1,26 @@
+# Sample IP addresses and domains for testing
+# Lines starting with # are comments and will be ignored
+
+# Well-known public DNS servers
+8.8.8.8
+1.1.1.1
+9.9.9.9
+
+# Cloud-hosted domains (test cloud provider detection)
+github.com
+cloudflare.com
+netflix.com
+
+# CDN-fronted domain (test --deep mode)
+bbc.co.uk
+
+# International IPs
+134.119.220.148
+103.224.182.250
+
+# Example domain with multiple A records
+google.com
+
+# Invalid entries (kept in output for traceability)
+NOT_AN_IP
+999.999.999.999

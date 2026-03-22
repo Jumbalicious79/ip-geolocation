@@ -1,0 +1,6 @@
+Domain,IP,Input_Type,Cloud_Provider,Is_CDN_Edge,City,Region,Country,Country_Name,Org,ISP,ASN,Location,Timezone,Postal,Error
+bbc.co.uk,151.101.192.81,A-record,Fastly,Yes,San Francisco,California,US,N/A,AS54113 Fastly Inc.,AS54113 Fastly Inc.,N/A,"37.7749,-122.4194",America/Los_Angeles,94102,
+bbc.co.uk (MX: cluster1.eu.messagelabs.com),85.158.142.213,MX-record,GCP,No,Hamina,,FI,N/A,AS396982 Google LLC,AS396982 Google LLC,N/A,"60.5693,27.1878",Europe/Helsinki,49400,
+bbc.co.uk (SPF),212.58.224.0,SPF-record,N/A,No,London,England,GB,N/A,AS2818 BBC,AS2818 BBC,N/A,"51.5074,-0.1278",Europe/London,EC1A,
+bbc.co.uk (sub: mail),132.185.132.16,origin-probe,N/A,No,London,England,GB,N/A,AS2818 BBC,AS2818 BBC,N/A,"51.5074,-0.1278",Europe/London,W1A,
+bbc.co.uk (sub: api),212.58.244.98,origin-probe,N/A,No,London,England,GB,N/A,AS2818 BBC,AS2818 BBC,N/A,"51.5074,-0.1278",Europe/London,W1A,

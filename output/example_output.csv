@@ -1,0 +1,5 @@
+Domain,IP,Input_Type,Cloud_Provider,Is_CDN_Edge,City,Region,Country,Country_Name,Org,ISP,ASN,Location,Timezone,Postal,Error
+N/A,8.8.8.8,ip,GCP,,Mountain View,California,US,N/A,AS15169 Google LLC,AS15169 Google LLC,N/A,"37.4056,-122.0775",America/Los_Angeles,94043,
+google.com,142.250.80.46,domain,GCP,,New York City,New York,US,N/A,AS15169 Google LLC,AS15169 Google LLC,N/A,"40.7143,-74.0060",America/New_York,10001,
+cloudflare.com,104.16.133.229,domain,Cloudflare,,San Francisco,California,US,N/A,AS13335 Cloudflare Inc.,AS13335 Cloudflare Inc.,N/A,"37.7749,-122.4194",America/Los_Angeles,94102,
+N/A,NOT_AN_IP,unknown,,,,,,,,,,,,,Not a valid IP or domain

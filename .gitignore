@@ -1,0 +1,28 @@
+# API tokens and config
+config/api_config.json
+
+# Output and data (contains real results)
+output/*.csv
+output/*.json
+data/*.csv
+data/*.json
+
+# Keep READMEs, example files, and config template
+!output/README.md
+!output/example_*.csv
+!data/README.md
+!data/example_*.csv
+!config/api_config.json.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
